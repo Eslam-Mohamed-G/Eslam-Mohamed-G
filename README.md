@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eslam Mohamed</h1>
 <h3 align="center">Front-End Developer</h3>
-<img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="eslam-mohamed-g" />
+<img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="eslam-mohamed-g"  height="140" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eslam-mohamed-g&label=Profile%20views&color=0e75b6&style=flat" alt="eslam-mohamed-g" /> </p>
